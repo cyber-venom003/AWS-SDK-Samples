@@ -1,0 +1,21 @@
+{
+  "name": "js-and-ts",
+  "version": "1.0.0",
+  "description": "AWS-SDK code samples for JavaScript and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.906.0",
+    "dotenv": "^9.0.2",
+    "dynamoose": "^2.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.0.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
